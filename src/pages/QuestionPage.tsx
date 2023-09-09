@@ -25,6 +25,10 @@ const QuestionPage: React.FC<QuestionProps> = ({
   const currentQuestion = questions[currentQuestionIndex];
   const [showAnswer, setShowAnswer] = useState(false);
 
+  const handleAnswer = (corrected?: boolean) => {
+    onNextQuestion(corrected);
+    setShowAnswer(false);
+  };
   return (
     <Container>
       <Title>
@@ -39,11 +43,13 @@ const QuestionPage: React.FC<QuestionProps> = ({
       {showAnswer && (
         <div className="mb-8">
           <p>정답: {currentQuestion.answer}</p>
-          {currentQuestion.answerDescription && <p className="mt-2">{currentQuestion.answerDescription}</p>}
+          {currentQuestion.answerDescription && (
+            <p className="mt-2">{currentQuestion.answerDescription}</p>
+          )}
         </div>
       )}
-      <Button onClick={() => onNextQuestion(true)}>맞음</Button>
-      <Button onClick={() => onNextQuestion()}>틀림</Button>
+      <Button onClick={() => handleAnswer(true)}>맞음</Button>
+      <Button onClick={() => handleAnswer()}>틀림</Button>
     </Container>
   );
 };
