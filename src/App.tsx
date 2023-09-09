@@ -27,7 +27,7 @@ function App() {
 
   // 테스트 데이터를 JSON 파일로부터 로드하고 순서를 랜덤화하는 함수
   const loadTestData = () => {
-    fetch(`/${testType}.json`)
+    fetch(`${process?.env.PUBLIC_UR}/${testType}.json`)
       .then((response) => response.json())
       .then(({ title, data }: Data) => {
         // 데이터를 랜덤하게 섞습니다.
