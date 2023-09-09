@@ -36,7 +36,7 @@ const StartPage: React.FC<FormInputProps> = ({
         </select>
       </label>
       <br />
-      <label className="block mb-5">
+      {/* <label className="block mb-5">
         <div className="mb-2">문항 수</div>
         <input
           type="number"
@@ -55,7 +55,7 @@ const StartPage: React.FC<FormInputProps> = ({
           onChange={(e) => setTimeLimit(Math.max(10, Number(e.target.value)))} // 최소값 10
         />
       </label>
-      <br />
+      <br /> */}
       <Button onClick={onStartTest}>
         start.
       </Button>
