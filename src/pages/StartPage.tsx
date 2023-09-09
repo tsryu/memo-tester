@@ -1,4 +1,7 @@
 import React, { MouseEvent } from "react";
+import Container from "../components/Container";
+import Button from "../components/Button";
+import Title from "../components/Title";
 
 interface FormInputProps {
   onStartTest: (e: MouseEvent<HTMLButtonElement>) => void;
@@ -19,12 +22,13 @@ const StartPage: React.FC<FormInputProps> = ({
   timeLimit,
   setTimeLimit,
 }) => {
-
   return (
-    <div>
-      <h1>암기력 테스트</h1>
-      <label>
-        테스트 종류:
+    <Container>
+      <Title>
+        memo tester.
+      </Title>
+      <label className="block mb-5">
+        <div className="mb-2">테스트 종류</div>
         <select value={testType} onChange={(e) => setTestType(e.target.value)}>
           <option value="">선택해주세요 :)</option>
           <option value="hiragana">히라가나 외우기</option>
@@ -32,8 +36,8 @@ const StartPage: React.FC<FormInputProps> = ({
         </select>
       </label>
       <br />
-      <label>
-        문항 수:
+      <label className="block mb-5">
+        <div className="mb-2">문항 수</div>
         <input
           type="number"
           value={questionCount}
@@ -43,8 +47,8 @@ const StartPage: React.FC<FormInputProps> = ({
         />
       </label>
       <br />
-      <label>
-        제한 시간 (초):
+      <label className="block mb-5">
+        <div className="mb-2">제한 시간 (초)</div>
         <input
           type="number"
           value={timeLimit}
@@ -52,8 +56,10 @@ const StartPage: React.FC<FormInputProps> = ({
         />
       </label>
       <br />
-      <button onClick={onStartTest}>시작</button>
-    </div>
+      <Button onClick={onStartTest}>
+        start.
+      </Button>
+    </Container>
   );
 };
 

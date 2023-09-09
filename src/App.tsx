@@ -1,7 +1,7 @@
 import { useState } from "react";
-import StartPage from "./components/StartPage";
-import QuestionPage from "./components/QuestionPage";
-import ResultPage from "./components/ResultPage";
+import StartPage from "./pages/StartPage";
+import QuestionPage from "./pages/QuestionPage";
+import ResultPage from "./pages/ResultPage";
 import { isEmpty } from "ramda";
 
 interface Question {
