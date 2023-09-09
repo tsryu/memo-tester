@@ -31,8 +31,8 @@ const StartPage: React.FC<FormInputProps> = ({
         <div className="mb-2">테스트 종류</div>
         <select value={testType} onChange={(e) => setTestType(e.target.value)}>
           <option value="">선택해주세요 :)</option>
-          <option value="hiragana">히라가나 외우기</option>
-          <option value="other_test_type">다른 테스트 종류</option>
+          <option value="hiragana">히라가나 테스트</option>
+          <option value="katakana">카타카나 테스트</option>
         </select>
       </label>
       <br />

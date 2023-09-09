@@ -1,188 +1,188 @@
 {
-  "title": "히라가나 테스트",
+  "title": "카타카나 테스트",
   "data": [
     {
-      "question": "あ",
+      "question": "ア",
       "answer": "아"
     },
     {
-      "question": "い",
+      "question": "イ",
       "answer": "이"
     },
     {
-      "question": "う",
+      "question": "ウ",
       "answer": "우"
     },
     {
-      "question": "え",
+      "question": "エ",
       "answer": "에"
     },
     {
-      "question": "お",
+      "question": "オ",
       "answer": "오"
     },
     {
-      "question": "か",
+      "question": "カ",
       "answer": "카"
     },
     {
-      "question": "き",
+      "question": "キ",
       "answer": "키"
     },
     {
-      "question": "く",
+      "question": "ク",
       "answer": "쿠"
     },
     {
-      "question": "け",
+      "question": "ケ",
       "answer": "케"
     },
     {
-      "question": "こ",
+      "question": "コ",
       "answer": "코"
     },
     {
-      "question": "さ",
+      "question": "サ",
       "answer": "사"
     },
     {
-      "question": "し",
+      "question": "シ",
       "answer": "시"
     },
     {
-      "question": "す",
+      "question": "ス",
       "answer": "스"
     },
     {
-      "question": "せ",
+      "question": "セ",
       "answer": "세"
     },
     {
-      "question": "そ",
+      "question": "ソ",
       "answer": "소"
     },
     {
-      "question": "た",
+      "question": "タ",
       "answer": "타"
     },
     {
-      "question": "ち",
+      "question": "チ",
       "answer": "치"
     },
     {
-      "question": "つ",
+      "question": "ツ",
       "answer": "츠"
     },
     {
-      "question": "て",
+      "question": "テ",
       "answer": "테"
     },
     {
-      "question": "と",
+      "question": "ト",
       "answer": "토"
     },
     {
-      "question": "な",
+      "question": "ナ",
       "answer": "나"
     },
     {
-      "question": "に",
+      "question": "ニ",
       "answer": "니"
     },
     {
-      "question": "ぬ",
+      "question": "ヌ",
       "answer": "누"
     },
     {
-      "question": "ね",
+      "question": "ネ",
       "answer": "네"
     },
     {
-      "question": "の",
+      "question": "ノ",
       "answer": "노"
     },
     {
-      "question": "は",
+      "question": "ハ",
       "answer": "하"
     },
     {
-      "question": "ひ",
+      "question": "ヒ",
       "answer": "히"
     },
     {
-      "question": "ふ",
+      "question": "フ",
       "answer": "후"
     },
     {
-      "question": "へ",
+      "question": "ヘ",
       "answer": "헤"
     },
     {
-      "question": "ほ",
+      "question": "ホ",
       "answer": "호"
     },
     {
-      "question": "ま",
+      "question": "マ",
       "answer": "마"
     },
     {
-      "question": "み",
+      "question": "ミ",
       "answer": "미"
     },
     {
-      "question": "む",
+      "question": "ム",
       "answer": "무"
     },
     {
-      "question": "め",
+      "question": "メ",
       "answer": "메"
     },
     {
-      "question": "も",
+      "question": "モ",
       "answer": "모"
     },
     {
-      "question": "や",
+      "question": "ヤ",
       "answer": "야"
     },
     {
-      "question": "ゆ",
+      "question": "ユ",
       "answer": "유"
     },
     {
-      "question": "よ",
+      "question": "ヨ",
       "answer": "요"
     },
     {
-      "question": "ら",
+      "question": "ラ",
       "answer": "라"
     },
     {
-      "question": "り",
+      "question": "リ",
       "answer": "리"
     },
     {
-      "question": "る",
+      "question": "ル",
       "answer": "루"
     },
     {
-      "question": "れ",
+      "question": "レ",
       "answer": "레"
     },
     {
-      "question": "ろ",
+      "question": "ロ",
       "answer": "로"
     },
     {
-      "question": "わ",
+      "question": "ワ",
       "answer": "와"
     },
     {
-      "question": "を",
+      "question": "ヲ",
       "answer": "오"
     },
     {
-      "question": "ん",
+      "question": "ン",
       "answer": "음"
     }
   ]

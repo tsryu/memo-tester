@@ -16,8 +16,8 @@ interface Data {
 }
 
 function App() {
-  const [testType, setTestType] = useState("");
-  const [questionCount, setQuestionCount] = useState(10);
+  const [testType, setTestType] = useState("hiragana");
+  const [questionCount, setQuestionCount] = useState(50);
   const [timeLimit, setTimeLimit] = useState(30);
 
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
@@ -69,8 +69,8 @@ function App() {
 
   const handleRestart = () => {
     // 테스트 재시작
-    setTestType("");
-    setQuestionCount(10);
+    setTestType("hiragana");
+    setQuestionCount(50);
     setTimeLimit(30);
     setCurrentQuestionIndex(0);
     setScore(0);
