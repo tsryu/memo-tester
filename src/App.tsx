@@ -97,6 +97,7 @@ function App() {
   } else if (currentQuestionIndex < totalQuestions) {
     return (
       <QuestionPage
+        onRestart={handleRestart}
         questions={questions}
         currentQuestionIndex={currentQuestionIndex}
         onNextQuestion={handleNextQuestion}

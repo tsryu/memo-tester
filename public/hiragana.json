@@ -3,187 +3,233 @@
   "data": [
     {
       "question": "あ",
-      "answer": "아"
+      "answer": "아",
+      "answerDescription": "a / あ / 安 / あん(안) / 편안할 안"
     },
     {
       "question": "い",
-      "answer": "이"
+      "answer": "이",
+      "answerDescription": "i / い / 以 / い / 써 이(~을 근거로)"
     },
     {
       "question": "う",
-      "answer": "우"
+      "answer": "우",
+      "answerDescription": "u / う / 宇 / う / 집 우"
     },
     {
       "question": "え",
-      "answer": "에"
+      "answer": "에",
+      "answerDescription": "e / え / 衣 / い ·え (이 또는 에) / 옷 의"
     },
     {
       "question": "お",
-      "answer": "오"
+      "answer": "오",
+      "answerDescription": "o / お / 於 / お / 어조사 어"
     },
     {
       "question": "か",
-      "answer": "카"
+      "answer": "카",
+      "answerDescription": "ka / か / 加 / か / 더할 가"
     },
     {
       "question": "き",
-      "answer": "키"
+      "answer": "키",
+      "answerDescription": "ki / き / 機 / き / 틀 기"
     },
     {
       "question": "く",
-      "answer": "쿠"
+      "answer": "쿠",
+      "answerDescription": "ku / く / 久 / きゅう·く (규, 쿠) / 오랠 구"
     },
     {
       "question": "け",
-      "answer": "케"
+      "answer": "케",
+      "answerDescription": "ke / け / 計 / けい(케이) / 셀 계"
     },
     {
       "question": "こ",
-      "answer": "코"
+      "answer": "코",
+      "answerDescription": "ko / こ / 己 / こ ·き(코, 키) / 몸 기"
     },
     {
       "question": "さ",
-      "answer": "사"
+      "answer": "사",
+      "answerDescription": "sa / さ / 左 / さ / 왼 좌"
     },
     {
       "question": "し",
-      "answer": "시"
+      "answer": "시",
+      "answerDescription": "shi / し / 之 / し / 갈 지"
     },
     {
       "question": "す",
-      "answer": "스"
+      "answer": "스",
+      "answerDescription": "su / す / 寸 / すん (순) / 마디 촌"
     },
     {
       "question": "せ",
-      "answer": "세"
+      "answer": "세",
+      "answerDescription": "se / せ / 世 / せい ·せ(세이, 세) / 인간 세, 대 세"
     },
     {
       "question": "そ",
-      "answer": "소"
+      "answer": "소",
+      "answerDescription": "so / そ / 曽 / そう(소우) / 일찍 증"
     },
     {
       "question": "た",
-      "answer": "타"
+      "answer": "타",
+      "answerDescription": "ta / た / 太 / たい ·た(타이, 타) / 클 태"
     },
     {
       "question": "ち",
-      "answer": "치"
+      "answer": "치",
+      "answerDescription": "chi / ち / 知 / ち / 알 지"
     },
     {
       "question": "つ",
-      "answer": "츠"
+      "answer": "츠",
+      "answerDescription": "tsu / つ / 川 / せん(센) / 내 천"
     },
     {
       "question": "て",
-      "answer": "테"
+      "answer": "테",
+      "answerDescription": "te / て / 天 / てん(텐) / 하늘 천"
     },
     {
       "question": "と",
-      "answer": "토"
+      "answer": "토",
+      "answerDescription": "to / と / 止 / し(시) / 그칠 지"
     },
     {
       "question": "な",
-      "answer": "나"
+      "answer": "나",
+      "answerDescription": "na / な / 奈 / な / 어찌 내, 어찌 나"
     },
     {
       "question": "に",
-      "answer": "니"
+      "answer": "니",
+      "answerDescription": "ni / に / 仁 / じん·に· にん(진,니, 닌) / 어질 인"
     },
     {
       "question": "ぬ",
-      "answer": "누"
+      "answer": "누",
+      "answerDescription": "nu / ぬ / 奴 / ど·ぬ(도, 누) / 종 노"
     },
     {
       "question": "ね",
-      "answer": "네"
+      "answer": "네",
+      "answerDescription": "ne / ね / 祢: 현재 거의 사용 안 하는 한자라 기록의 의미 없음"
     },
     {
       "question": "の",
-      "answer": "노"
+      "answer": "노",
+      "answerDescription": "no / の / 乃 / だい·ない(다이, 나이) / 이에 내"
     },
     {
       "question": "は",
-      "answer": "하"
+      "answer": "하",
+      "answerDescription": "ha / は / 波 / は / 물결 파"
     },
     {
       "question": "ひ",
-      "answer": "히"
+      "answer": "히",
+      "answerDescription": "hi / ひ / 比 / ひ / 견줄 비"
     },
     {
       "question": "ふ",
-      "answer": "후"
+      "answer": "후",
+      "answerDescription": "hu / ふ / 不 / ふ·ぶ (후, 부) / 아닐 부"
     },
     {
       "question": "へ",
-      "answer": "헤"
+      "answer": "헤",
+      "answerDescription": "he / へ / 部 / ぶ / 떼 부, 거느릴 부"
     },
     {
       "question": "ほ",
-      "answer": "호"
+      "answer": "호",
+      "answerDescription": "ho / ほ / 保 / ほ / 지킬 보"
     },
     {
       "question": "ま",
-      "answer": "마"
+      "answer": "마",
+      "answerDescription": "ma / ま / 末 / まつ ·ばつ(마쯔, 바쭈) / 끝 말"
     },
     {
       "question": "み",
-      "answer": "미"
+      "answer": "미",
+      "answerDescription": "mi / み / 美 / び ·み(비, 미) / 아름다울 미"
     },
     {
       "question": "む",
-      "answer": "무"
+      "answer": "무",
+      "answerDescription": "mu / む / 武 / ぶ·む(부, 무) / 호반 무, 굳셀 무"
     },
     {
       "question": "め",
-      "answer": "메"
+      "answer": "메",
+      "answerDescription": "me / め / 女 / じょ ·にょ ·にょう(죠, 뇨, 뇨오) / 계집 녀"
     },
     {
       "question": "も",
-      "answer": "모"
+      "answer": "모",
+      "answerDescription": "mo / も / 毛 / もう(모우) / 터럭 모, 털 모"
     },
     {
       "question": "や",
-      "answer": "야"
+      "answer": "야",
+      "answerDescription": "ya / や / 也 / や / 잇기 야, 어조사 야"
     },
     {
       "question": "ゆ",
-      "answer": "유"
+      "answer": "유",
+      "answerDescription": "yu / ゆ / 由 / ゆ ·ゆう ·ゆい(유, 유우, 유이) / 말미암을 유"
     },
     {
       "question": "よ",
-      "answer": "요"
+      "answer": "요",
+      "answerDescription": "yo / よ / 与 / よ / 더불 여, 줄 여(與)"
     },
     {
       "question": "ら",
-      "answer": "라"
+      "answer": "라",
+      "answerDescription": "ra / ら / 良 / りょう(료우) / 어질 량"
     },
     {
       "question": "り",
-      "answer": "리"
+      "answer": "리",
+      "answerDescription": "ri / り / 利 / り / 이로울 리"
     },
     {
       "question": "る",
-      "answer": "루"
+      "answer": "루",
+      "answerDescription": "ru / る / 留 / りゅう·る(류우, 루) / 머무를 류"
     },
     {
       "question": "れ",
-      "answer": "레"
+      "answer": "레",
+      "answerDescription": "re / れ / 礼 / らい·れい(라이, 레이) / 예절 례"
     },
     {
       "question": "ろ",
-      "answer": "로"
+      "answer": "로",
+      "answerDescription": "ro / ろ / 呂 / ろ ·りょ(로, 료) / 성씨 려"
     },
     {
       "question": "わ",
-      "answer": "와"
+      "answer": "와",
+      "answerDescription": "wa / わ / 和 / お·か·わ(오, 카, 와) / 화할 화"
     },
     {
       "question": "を",
-      "answer": "오"
+      "answer": "오",
+      "answerDescription": "wo / を / 遠 / えん ·おん(엔, 온) / 멀 원"
     },
     {
       "question": "ん",
-      "answer": "음"
+      "answer": "음",
+      "answerDescription": "n / ん / 无 / 无 업을 무(無)에서 왔으나 일본에서는 사용 안 하는 글자, 중국에서는 無(wú)의 간체자로 사용함"
     }
   ]
 }

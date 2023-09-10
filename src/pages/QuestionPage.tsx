@@ -8,6 +8,7 @@ interface QuestionProps {
   currentQuestionIndex: number;
   onNextQuestion: (corrected?: boolean) => void;
   title: string;
+  onRestart: () => void;
 }
 
 interface Question {
@@ -21,6 +22,7 @@ const QuestionPage: React.FC<QuestionProps> = ({
   currentQuestionIndex,
   onNextQuestion,
   title,
+  onRestart,
 }) => {
   const currentQuestion = questions[currentQuestionIndex];
   const [showAnswer, setShowAnswer] = useState(false);
@@ -31,6 +33,9 @@ const QuestionPage: React.FC<QuestionProps> = ({
   };
   return (
     <Container>
+      <Button onClick={onRestart} underline style={{ position: 'absolute', top: '1rem', left: '1rem'}}>
+          Reset
+      </Button>
       <Title>
         {title} 문항 {currentQuestionIndex + 1}
       </Title>
