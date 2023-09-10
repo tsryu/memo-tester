@@ -31,6 +31,7 @@ const QuestionPage: React.FC<QuestionProps> = ({
     onNextQuestion(corrected);
     setShowAnswer(false);
   };
+  
   return (
     <Container>
       <Button onClick={onRestart} underline style={{ position: 'absolute', top: '1rem', left: '1rem'}}>
