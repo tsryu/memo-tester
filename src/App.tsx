@@ -15,8 +15,10 @@ interface Data {
   data: Question[];
 }
 
+const INITIAL_TEST = 'chord';
+
 function App() {
-  const [testType, setTestType] = useState("hiragana");
+  const [testType, setTestType] = useState(INITIAL_TEST);
   const [questionCount, setQuestionCount] = useState(50);
   const [timeLimit, setTimeLimit] = useState(30);
 
@@ -69,7 +71,7 @@ function App() {
 
   const handleRestart = () => {
     // 테스트 재시작
-    setTestType("hiragana");
+    setTestType(INITIAL_TEST);
     setQuestionCount(50);
     setTimeLimit(30);
     setCurrentQuestionIndex(0);

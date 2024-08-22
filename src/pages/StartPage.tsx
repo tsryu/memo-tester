@@ -33,6 +33,7 @@ const StartPage: React.FC<FormInputProps> = ({
           <option value="">선택해주세요 :)</option>
           <option value="hiragana">히라가나 테스트</option>
           <option value="katakana">카타카나 테스트</option>
+          <option value="chord">화음 테스트</option>
         </select>
       </label>
       <br />

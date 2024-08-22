@@ -1,0 +1,89 @@
+{
+  "title": "4화음 테스트",
+  "data": [
+    {
+      "question": "A",
+      "answer": "A C# E G#"
+    },
+    {
+      "question": "B",
+      "answer": "B D# F# A#"
+    },
+    {
+      "question": "C",
+      "answer": "C E G B"
+    },
+    {
+      "question": "D",
+      "answer": "D F# A C#"
+    },
+    {
+      "question": "E",
+      "answer": "E G# B D#"
+    },
+    {
+      "question": "F",
+      "answer": "F A C E"
+    },
+    {
+      "question": "G",
+      "answer": "G B D F#"
+    },
+    {
+      "question": "AM",
+      "answer": "A C# E G"
+    },
+    {
+      "question": "BM",
+      "answer": "B D# F# A"
+    },
+    {
+      "question": "CM",
+      "answer": "C E G Bb"
+    },
+    {
+      "question": "DM",
+      "answer": "D F# A C"
+    },
+    {
+      "question": "EM",
+      "answer": "E G# B D"
+    },
+    {
+      "question": "FM",
+      "answer": "F A C Eb"
+    },
+    {
+      "question": "GM",
+      "answer": "G B D F"
+    },
+    {
+      "question": "Am",
+      "answer": "A C E G"
+    },
+    {
+      "question": "Bm",
+      "answer": "B D F# A"
+    },
+    {
+      "question": "Cm",
+      "answer": "C Eb G Bb"
+    },
+    {
+      "question": "Dm",
+      "answer": "D F A C"
+    },
+    {
+      "question": "Em",
+      "answer": "E G B D"
+    },
+    {
+      "question": "Fm",
+      "answer": "F Ab C Eb"
+    },
+    {
+      "question": "Gm",
+      "answer": "G Bb D F"
+    }
+  ]
+}
