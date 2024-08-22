@@ -1,0 +1,45 @@
+{
+  "title": "4화음 테스트",
+  "data": [
+    {
+      "question": "さ よ う な ら 。",
+      "answer": "사요우나라"
+    },
+    {
+      "question": "お や す み な さ い 。",
+      "answer": "오야스미나사이"
+    },
+    {
+      "question": "こ ん に ち は 。",
+      "answer": "곤니치와"
+    },
+    {
+      "question": "す み ま せ ん 。",
+      "answer": "스미마센"
+    },
+    {
+      "question": "な に を し て ま す か 。",
+      "answer": "나니오시떼마스까"
+    },
+    {
+      "question": "お か え り な さ い 。",
+      "answer": "오가에리나사이"
+    },
+    {
+      "question": "い っ て き ま す 。",
+      "answer": "이츠떼키마스"
+    },
+    {
+      "question": "し つ れ い し ま す 。",
+      "answer": "시츠레이시마스"
+    },
+    {
+      "question": "さ し み",
+      "answer": "사시미"
+    },
+    {
+      "question": "は い 、 わ か り ま し た 。",
+      "answer": "하이 와까리마시따"
+    }
+  ]
+}
