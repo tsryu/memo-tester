@@ -1,4 +1,4 @@
-import React, { MouseEvent } from "react";
+import React, { MouseEvent, useEffect, useState } from "react";
 import Container from "../components/Container";
 import Button from "../components/Button";
 import Title from "../components/Title";
@@ -13,6 +13,11 @@ interface FormInputProps {
   setTimeLimit: (second: number) => void;
 }
 
+interface TestOption {
+  title: string;
+  value: string;
+}
+
 const StartPage: React.FC<FormInputProps> = ({
   onStartTest,
   testType,
@@ -22,19 +27,34 @@ const StartPage: React.FC<FormInputProps> = ({
   timeLimit,
   setTimeLimit,
 }) => {
+  const [testOptions, setTestOptions] = useState<TestOption[]>([]);
+
+  useEffect(() => {
+    const fetchTestOptions = async () => {
+      try {
+        const response = await fetch("/fileList.json");
+        const options: TestOption[] = await response.json();
+        setTestOptions(options);
+      } catch (error) {
+        console.error("Failed to load test options:", error);
+      }
+    };
+
+    fetchTestOptions();
+  }, []);
+
   return (
     <Container>
-      <Title>
-        memo tester.
-      </Title>
+      <Title>memo tester.</Title>
       <label className="block mb-5">
         <div className="mb-2">테스트 종류</div>
         <select value={testType} onChange={(e) => setTestType(e.target.value)}>
           <option value="">선택해주세요 :)</option>
-          <option value="hiragana">히라가나 테스트</option>
-          <option value="hiragana_read">히라가나 실전 테스트</option>
-          <option value="katakana">카타카나 테스트</option>
-          <option value="chord">화음 테스트</option>
+          {testOptions.map((option) => (
+            <option key={option.value} value={option.value}>
+              {option.title}
+            </option>
+          ))}
         </select>
       </label>
       <br />
@@ -58,9 +78,7 @@ const StartPage: React.FC<FormInputProps> = ({
         />
       </label>
       <br />
-      <Button onClick={onStartTest}>
-        start.
-      </Button>
+      <Button onClick={onStartTest}>start.</Button>
     </Container>
   );
 };
