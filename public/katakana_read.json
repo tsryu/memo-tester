@@ -3,199 +3,248 @@
   "data": [
     {
       "question": "デート",
-      "answer": "데이트 (date)"
+      "answer": "데-토",
+      "answerDescription": "데이트"
     },
     {
       "question": "フリー",
-      "answer": "프리 (free) "
+      "answer": "후리이",
+      "answerDescription": "프리"
     },
     {
       "question": "メリークリスマス",
-      "answer": "메리 크리스마스 (Merry Christmas)  "
+      "answer": "메리 쿠리스마스",
+      "answerDescription": "메리 크리스마스"
     },
     {
       "question": "ブラウン",
-      "answer": "브라운 (brown)"
+      "answer": "부라운",
+      "answerDescription": "브라운"
     },
     {
       "question": "グレー",
-      "answer": "그레이 (gray)"
+      "answer": "그레-",
+      "answerDescription": "그레이"
     },
     {
       "question": "ホテル",
-      "answer": "호텔 (hotel)  "
+      "answer": "호테루",
+      "answerDescription": "호텔"
     },
     {
       "question": "アイライナー",
-      "answer": "아이라이너 (eyeliner)"
+      "answer": "아이라이너",
+      "answerDescription": "아이라이너"
     },
     {
       "question": "ケーキ",
-      "answer": "케이크 (cake)  "
+      "answer": "케이크",
+      "answerDescription": "케이크"
     },
     {
       "question": "チキン",
-      "answer": "치킨 (chicken)  "
+      "answer": "치킨",
+      "answerDescription": "치킨"
     },
     {
       "question": "ミルク",
-      "answer": "밀크 (milk)"
+      "answer": "밀크",
+      "answerDescription": "밀크"
     },
     {
       "question": "モンスター",
-      "answer": "몬스터 (monster)  "
+      "answer": "몬스타",
+      "answerDescription": "몬스터"
     },
     {
       "question": "バス",
-      "answer": "버스 (bus)  "
+      "answer": "바스",
+      "answerDescription": "버스"
     },
     {
       "question": "ニコン",
-      "answer": "니콘 (Nikon)"
+      "answer": "니콘",
+      "answerDescription": "니콘"
     },
     {
       "question": "バックヤード",
-      "answer": "백야드 (backyard) "
+      "answer": "바쿠야드",
+      "answerDescription": "백야드"
     },
     {
       "question": "ナイス",
-      "answer": "나이스 (nice) "
+      "answer": "나이스",
+      "answerDescription": "나이스"
     },
     {
       "question": "セール",
-      "answer": "세일 (sale)  "
+      "answer": "세-루",
+      "answerDescription": "세일"
     },
     {
       "question": "コンサート",
-      "answer": "콘서트 (concert)"
+      "answer": "콘사-토",
+      "answerDescription": "콘서트"
     },
     {
       "question": "ピンク",
-      "answer": "핑크 (pink)"
+      "answer": "핑크",
+      "answerDescription": "핑크"
     },
     {
       "question": "ヒーター",
-      "answer": "히터 (heater)"
+      "answer": "히타-",
+      "answerDescription": "히터"
     },
     {
       "question": "ネールアート",
-      "answer": "네일 아트 (Nail Art) "
+      "answer": "네-루 아-토",
+      "answerDescription": "네일 아트"
     },
     {
-      "question": "アイブロー ",
-      "answer": "아이브로우 (eyebrow)"
+      "question": "アイブロー",
+      "answer": "아이부로-",
+      "answerDescription": "아이브로우"
     },
     {
       "question": "コーヒー",
-      "answer": "커피 (coffee)  "
+      "answer": "코-히-",
+      "answerDescription": "커피"
     },
     {
       "question": "サーモン",
-      "answer": "샐몬 (salmon)"
+      "answer": "사-몬",
+      "answerDescription": "샐몬"
     },
     {
       "question": "レモン",
-      "answer": "레몬 (lemon)  "
+      "answer": "레몬",
+      "answerDescription": "레몬"
     },
     {
       "question": "トトロ",
-      "answer": "토토로 (Totoro)"
+      "answer": "토토로",
+      "answerDescription": "토토로"
     },
     {
       "question": "タイム",
-      "answer": "타임 (time)"
+      "answer": "타이무",
+      "answerDescription": "타임"
     },
     {
       "question": "カメラ",
-      "answer": "카메라 (camera)"
+      "answer": "카메라",
+      "answerDescription": "카메라"
     },
     {
       "question": "ソウル",
-      "answer": "소울 (soul)"
+      "answer": "소-루",
+      "answerDescription": "소울"
     },
     {
       "question": "ショッピング",
-      "answer": "쇼핑 (shopping)  "
+      "answer": "쇼핑",
+      "answerDescription": "쇼핑"
     },
     {
       "question": "ドライブ",
-      "answer": "드라이브 (drive)"
+      "answer": "도라이부",
+      "answerDescription": "드라이브"
     },
     {
       "question": "ラジオ",
-      "answer": "라디오 (radio)"
+      "answer": "라지오",
+      "answerDescription": "라디오"
     },
     {
-      "question": "オレンジ ",
-      "answer": "오렌지 (orange)"
+      "question": "オレンジ",
+      "answer": "오렌지",
+      "answerDescription": "오렌지"
     },
     {
       "question": "エアコンディショナー",
-      "answer": "에어컨디셔너 (air conditioner)"
+      "answer": "에아콘디쇼나-",
+      "answerDescription": "에어컨디셔너"
     },
     {
       "question": "スモーキー",
-      "answer": "스모키 (smoky)"
+      "answer": "스모-키-",
+      "answerDescription": "스모키"
     },
     {
       "question": "マスカラ",
-      "answer": "마스카라 (mascara) "
+      "answer": "마스카라",
+      "answerDescription": "마스카라"
     },
     {
       "question": "カフェラテ",
-      "answer": "카페라테 (caffèe latte)"
+      "answer": "카페라테",
+      "answerDescription": "카페라테"
     },
     {
       "question": "ヌードル",
-      "answer": "누들 (noodle) "
+      "answer": "누-도-루",
+      "answerDescription": "누들"
     },
     {
-      "question": "ワッフル ",
-      "answer": "와플 (waffle)"
+      "question": "ワッフル",
+      "answer": "와ッフ루",
+      "answerDescription": "와플"
     },
     {
       "question": "ツリー",
-      "answer": "트리 (tree)"
+      "answer": "츠리-",
+      "answerDescription": "트리"
     },
     {
       "question": "ユーエスエー",
-      "answer": "유에스에이 (USA) "
+      "answer": "유-에스-에이",
+      "answerDescription": "유에스에이"
     },
     {
       "question": "ホーム",
-      "answer": "홈 (home)  "
+      "answer": "호-무",
+      "answerDescription": "홈"
     },
     {
       "question": "ミュージック",
-      "answer": "뮤직 (music)"
+      "answer": "뮤-직",
+      "answerDescription": "뮤직"
     },
     {
       "question": "コーヒー",
-      "answer": "코-히- :커피"
+      "answer": "코-히-",
+      "answerDescription": "커피"
     },
     {
       "question": "コーヒーショップ",
-      "answer": "코-히-숍푸 :커피숍 "
+      "answer": "코-히-숍푸",
+      "answerDescription": "커피숍 "
     },
     {
       "question": "スマーホ",
-      "answer": "스마-호 :스마트폰"
+      "answer": "스마-호",
+      "answerDescription": "스마트폰"
     },
     {
       "question": "カフェ",
-      "answer": "카훼 :카페"
+      "answer": "카훼",
+      "answerDescription": "카페"
     },
     {
       "question": "(アル)バイト",
-      "answer": "(아루)바이토 :아르바이트 "
+      "answer": "(아루)바이토",
+      "answerDescription": "아르바이트 "
     },
     {
       "question": "パン",
-      "answer": "팡 :빵"
+      "answer": "팡",
+      "answerDescription": "빵"
     },
     {
       "question": "トイレ",
-      "answer": "토이레 :화장실"
+      "answer": "토이레",
+      "answerDescription": "화장실"
     },
     {
       "question": "ビール",
@@ -207,67 +256,83 @@
     },
     {
       "question": "コンビニ",
-      "answer": "콘비니 :편의점"
+      "answer": "콘비니",
+      "answerDescription": "편의점"
     },
     {
       "question": "デパート",
-      "answer": "데파-토 : 백화점"
+      "answer": "데파-토",
+      "answerDescription": "백화점"
     },
     {
       "question": "ジム",
-      "answer": "지무 : 헬스장"
+      "answer": "지무",
+      "answerDescription": "헬스장"
     },
     {
       "question": "コインランドリー",
-      "answer": "코인란도리-:코인빨래방"
+      "answer": "코인란도리-",
+      "answerDescription": "코인빨래방"
     },
     {
       "question": "シートベルト",
-      "answer": "시-토베루토: 안전벨트"
+      "answer": "시-토베루토",
+      "answerDescription": "안전벨트"
     },
     {
       "question": "ビジネス",
-      "answer": "비지네스: 비지니스"
+      "answer": "비지네스",
+      "answerDescription": "비지니스"
     },
     {
       "question": "アプリ",
-      "answer": "아프리: 어플리케이션 "
+      "answer": "아프리",
+      "answerDescription": "어플리케이션"
     },
     {
       "question": "アウトレット",
-      "answer": "아우토렛토: 아울렛"
+      "answer": "아우토렛토",
+      "answerDescription": "아울렛"
     },
     {
       "question": "キャンセル",
-      "answer": "캰세루: 캔슬"
+      "answer": "캰세루",
+      "answerDescription": "캔슬"
     },
     {
       "question": "シムカード",
-      "answer": "시무카-도: 유심카드"
+      "answer": "시무카-도",
+      "answerDescription": "유심카드"
     },
     {
       "question": "ホテル",
-      "answer": "호테루 :호텔"
+      "answer": "호테루",
+      "answerDescription": "호텔"
     },
     {
       "question": "セール",
-      "answer": "세-루 :세일"
+      "answer": "세-루",
+      "answerDescription": "세일"
     },
     {
       "question": "スポット",
-      "answer": "스폿토: 장소"
+      "answer": "스폿토",
+      "answerDescription": "장소"
     },
     {
       "question": "ガソリンスタンド",
-      "answer": "가소린스탄도: 주유소"
+      "answer": "가소린스탄도",
+      "answerDescription": "주유소"
     },
     {
       "question": "サービス",
-      "answer": "사-비스 :서비스"
+      "answer": "사-비스",
+      "answerDescription": "서비스"
     },
     {
       "question": "ポップコーン",
-      "answer": "폽쁘코-ㄴ 팝콘"
+      "answer": "폽쁘코-ㄴ",
+      "answerDescription": "팝콘"
     }
   ]
 }
