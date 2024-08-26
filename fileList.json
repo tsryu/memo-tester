@@ -1,0 +1,22 @@
+[
+  {
+    "title": "4화음 테스트",
+    "value": "chord"
+  },
+  {
+    "title": "히라가나 테스트",
+    "value": "hiragana"
+  },
+  {
+    "title": "히라가나 문장 테스트",
+    "value": "hiragana_read"
+  },
+  {
+    "title": "카타카나 테스트",
+    "value": "katakana"
+  },
+  {
+    "title": "카타카나 단어 테스트",
+    "value": "katakana_read"
+  }
+]
