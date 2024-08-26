@@ -32,7 +32,7 @@ const StartPage: React.FC<FormInputProps> = ({
   useEffect(() => {
     const fetchTestOptions = async () => {
       try {
-        const response = await fetch("/fileList.json");
+        const response = await fetch(`${import.meta.env.VITE_PUBLIC_URL}/fileList.json`);
         const options: TestOption[] = await response.json();
         setTestOptions(options);
       } catch (error) {
