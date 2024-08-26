@@ -1,45 +1,220 @@
 {
-  "title": "4화음 테스트",
+  "title": "히라가나 문장 테스트",
   "data": [
     {
-      "question": "さ よ う な ら 。",
-      "answer": "사요우나라"
-    },
-    {
-      "question": "お や す み な さ い 。",
-      "answer": "오야스미나사이"
-    },
-    {
       "question": "こ ん に ち は 。",
-      "answer": "곤니치와"
+      "answer": "곤니치와",
+      "answerDescription": "안녕하세요 (낮 인사)"
+    },
+    {
+      "question": "あ り が と う 。",
+      "answer": "아리가토우",
+      "answerDescription": "고마워"
     },
     {
       "question": "す み ま せ ん 。",
-      "answer": "스미마센"
+      "answer": "스미마셍",
+      "answerDescription": "죄송합니다"
     },
     {
-      "question": "な に を し て ま す か 。",
-      "answer": "나니오시떼마스까"
+      "question": "お は よ う 。",
+      "answer": "오하요우",
+      "answerDescription": "안녕하세요 (아침 인사)"
     },
     {
-      "question": "お か え り な さ い 。",
-      "answer": "오가에리나사이"
+      "question": "さ よ う な ら 。",
+      "answer": "사요우나라",
+      "answerDescription": "잘 가 (작별인사)"
+    },
+    {
+      "question": "い ら っ し ゃ い ま せ 。",
+      "answer": "이라샤이마세",
+      "answerDescription": "어서 오세요"
+    },
+    {
+      "question": "お や す み な さ い 。",
+      "answer": "오야스미나사이",
+      "answerDescription": "안녕히 주무세요"
+    },
+    {
+      "question": "お げ ん き で す か 。",
+      "answer": "오겡키데스까",
+      "answerDescription": "잘 지내세요?"
+    },
+    {
+      "question": "よ う こ そ 。",
+      "answer": "요우코소",
+      "answerDescription": "환영합니다"
+    },
+    {
+      "question": "は い 。",
+      "answer": "하이",
+      "answerDescription": "네"
+    },
+    {
+      "question": "い い え 。",
+      "answer": "이이에",
+      "answerDescription": "아니요"
+    },
+    {
+      "question": "お な ま え は 。",
+      "answer": "오나마에와",
+      "answerDescription": "이름이 뭐예요?"
+    },
+    {
+      "question": "あ い し て る 。",
+      "answer": "아이시테루",
+      "answerDescription": "사랑해"
+    },
+    {
+      "question": "ど う い た し ま し て 。",
+      "answer": "도우이타시마시테",
+      "answerDescription": "천만에요"
+    },
+    {
+      "question": "い く ら で す か 。",
+      "answer": "이쿠라데스까",
+      "answerDescription": "얼마예요?"
+    },
+    {
+      "question": "ど こ で す か 。",
+      "answer": "도코데스까",
+      "answerDescription": "어디예요?"
+    },
+    {
+      "question": "し ん ぱ い し な い で く だ さ い 。",
+      "answer": "신빠이시나이데쿠다사이",
+      "answerDescription": "걱정하지 마세요"
+    },
+    {
+      "question": "ご め ん な さ い 。",
+      "answer": "고멘나사이",
+      "answerDescription": "미안해요"
+    },
+    {
+      "question": "い た だ き ま す 。",
+      "answer": "이타다키마스",
+      "answerDescription": "잘 먹겠습니다"
+    },
+    {
+      "question": "ご ち そ う さ ま で し た 。",
+      "answer": "고치소우사마데시타",
+      "answerDescription": "잘 먹었습니다"
+    },
+    {
+      "question": "わ た し 。",
+      "answer": "와타시",
+      "answerDescription": "나 (저)"
+    },
+    {
+      "question": "あ な た 。",
+      "answer": "아나타",
+      "answerDescription": "당신"
+    },
+    {
+      "question": "か わ い い 。",
+      "answer": "카와이이",
+      "answerDescription": "귀여워"
+    },
+    {
+      "question": "だ い じ ょ う ぶ 。",
+      "answer": "다이죠부",
+      "answerDescription": "괜찮아"
+    },
+    {
+      "question": "は じ め ま し て 。",
+      "answer": "하지메마시테",
+      "answerDescription": "처음 뵙겠습니다"
+    },
+    {
+      "question": "お ひ さ し ぶ り で す 。",
+      "answer": "오히사시부리데스",
+      "answerDescription": "오랜만이에요"
+    },
+    {
+      "question": "つ か れ た 。",
+      "answer": "츠카레타",
+      "answerDescription": "피곤해"
+    },
+    {
+      "question": "が ん ば っ て 。",
+      "answer": "간밧테",
+      "answerDescription": "힘내"
+    },
+    {
+      "question": "す ご い 。",
+      "answer": "스고이",
+      "answerDescription": "대단해"
+    },
+    {
+      "question": "た の し い 。",
+      "answer": "타노시이",
+      "answerDescription": "즐거워"
+    },
+    {
+      "question": "お ね が い し ま す 。",
+      "answer": "오네가이시마스",
+      "answerDescription": "부탁드립니다"
+    },
+    {
+      "question": "も う い ち ど 。",
+      "answer": "모우이치도",
+      "answerDescription": "한 번 더"
+    },
+    {
+      "question": "す ば ら し い 。",
+      "answer": "스바라시이",
+      "answerDescription": "멋져"
+    },
+    {
+      "question": "だ め 。",
+      "answer": "다메",
+      "answerDescription": "안 돼"
     },
     {
       "question": "い っ て き ま す 。",
-      "answer": "이츠떼키마스"
+      "answer": "잇테키마스",
+      "answerDescription": "다녀오겠습니다"
+    },
+    {
+      "question": "お か え り な さ い 。",
+      "answer": "오카에리나사이",
+      "answerDescription": "다녀오셨어요"
+    },
+    {
+      "question": "ま た あ い ま し ょ う 。",
+      "answer": "마타아이마쇼우",
+      "answerDescription": "또 만나요"
+    },
+    {
+      "question": "よ ろ し く お ね が い し ま す 。",
+      "answer": "요로시쿠오네가이시마스",
+      "answerDescription": "잘 부탁드립니다"
+    },
+    {
+      "question": "お た ん じ ょ う び お め で と う 。",
+      "answer": "오탄죠우비 오메데토우",
+      "answerDescription": "생일 축하합니다"
     },
     {
       "question": "し つ れ い し ま す 。",
-      "answer": "시츠레이시마스"
+      "answer": "시츠레이시마스",
+      "answerDescription": "실례합니다"
+    },
+    {
+      "question": "な に を し て ま す か 。",
+      "answer": "나니오시떼마스까",
+      "answerDescription": "무엇을 하고 있나요?"
     },
     {
       "question": "さ し み",
-      "answer": "사시미"
+      "answer": "사시미",
+      "answerDescription": "사시미 (회)"
     },
     {
       "question": "は い 、 わ か り ま し た 。",
-      "answer": "하이 와까리마시따"
+      "answer": "하이 와까리마시따",
+      "answerDescription": "네, 알겠습니다 (이해함을 표현)"
     }
   ]
 }

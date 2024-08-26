@@ -2,87 +2,87 @@
   "title": "4화음 테스트",
   "data": [
     {
-      "question": "A",
-      "answer": "A C# E G#"
-    },
-    {
-      "question": "B",
-      "answer": "B D# F# A#"
-    },
-    {
-      "question": "C",
-      "answer": "C E G B"
-    },
-    {
-      "question": "D",
-      "answer": "D F# A C#"
-    },
-    {
-      "question": "E",
-      "answer": "E G# B D#"
-    },
-    {
-      "question": "F",
-      "answer": "F A C E"
-    },
-    {
-      "question": "G",
-      "answer": "G B D F#"
-    },
-    {
-      "question": "AM",
+      "question": "A7",
       "answer": "A C# E G"
     },
     {
-      "question": "BM",
+      "question": "B7",
       "answer": "B D# F# A"
     },
     {
-      "question": "CM",
-      "answer": "C E G Bb"
+      "question": "C7",
+      "answer": "C E G A#"
     },
     {
-      "question": "DM",
+      "question": "D7",
       "answer": "D F# A C"
     },
     {
-      "question": "EM",
+      "question": "E7",
       "answer": "E G# B D"
     },
     {
-      "question": "FM",
-      "answer": "F A C Eb"
+      "question": "F7",
+      "answer": "F A C D#"
     },
     {
-      "question": "GM",
+      "question": "G7",
       "answer": "G B D F"
     },
     {
-      "question": "Am",
+      "question": "AM7",
+      "answer": "A C# E G#"
+    },
+    {
+      "question": "BM7",
+      "answer": "B D# F# A#"
+    },
+    {
+      "question": "CM7",
+      "answer": "C E G B"
+    },
+    {
+      "question": "DM7",
+      "answer": "D F# A C#"
+    },
+    {
+      "question": "EM7",
+      "answer": "E G# B D#"
+    },
+    {
+      "question": "FM7",
+      "answer": "F A C E"
+    },
+    {
+      "question": "GM7",
+      "answer": "G B D F#"
+    },
+    {
+      "question": "Am7",
       "answer": "A C E G"
     },
     {
-      "question": "Bm",
+      "question": "Bm7",
       "answer": "B D F# A"
     },
     {
-      "question": "Cm",
-      "answer": "C Eb G Bb"
+      "question": "Cm7",
+      "answer": "C Eb G A#"
     },
     {
-      "question": "Dm",
+      "question": "Dm7",
       "answer": "D F A C"
     },
     {
-      "question": "Em",
+      "question": "Em7",
       "answer": "E G B D"
     },
     {
-      "question": "Fm",
-      "answer": "F Ab C Eb"
+      "question": "Fm7",
+      "answer": "F Ab C D#"
     },
     {
-      "question": "Gm",
+      "question": "Gm7",
       "answer": "G Bb D F"
     }
   ]

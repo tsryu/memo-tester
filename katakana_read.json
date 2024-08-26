@@ -1,0 +1,273 @@
+{
+  "title": "카타카나 단어 테스트",
+  "data": [
+    {
+      "question": "デート",
+      "answer": "데이트 (date)"
+    },
+    {
+      "question": "フリー",
+      "answer": "프리 (free) "
+    },
+    {
+      "question": "メリークリスマス",
+      "answer": "메리 크리스마스 (Merry Christmas)  "
+    },
+    {
+      "question": "ブラウン",
+      "answer": "브라운 (brown)"
+    },
+    {
+      "question": "グレー",
+      "answer": "그레이 (gray)"
+    },
+    {
+      "question": "ホテル",
+      "answer": "호텔 (hotel)  "
+    },
+    {
+      "question": "アイライナー",
+      "answer": "아이라이너 (eyeliner)"
+    },
+    {
+      "question": "ケーキ",
+      "answer": "케이크 (cake)  "
+    },
+    {
+      "question": "チキン",
+      "answer": "치킨 (chicken)  "
+    },
+    {
+      "question": "ミルク",
+      "answer": "밀크 (milk)"
+    },
+    {
+      "question": "モンスター",
+      "answer": "몬스터 (monster)  "
+    },
+    {
+      "question": "バス",
+      "answer": "버스 (bus)  "
+    },
+    {
+      "question": "ニコン",
+      "answer": "니콘 (Nikon)"
+    },
+    {
+      "question": "バックヤード",
+      "answer": "백야드 (backyard) "
+    },
+    {
+      "question": "ナイス",
+      "answer": "나이스 (nice) "
+    },
+    {
+      "question": "セール",
+      "answer": "세일 (sale)  "
+    },
+    {
+      "question": "コンサート",
+      "answer": "콘서트 (concert)"
+    },
+    {
+      "question": "ピンク",
+      "answer": "핑크 (pink)"
+    },
+    {
+      "question": "ヒーター",
+      "answer": "히터 (heater)"
+    },
+    {
+      "question": "ネールアート",
+      "answer": "네일 아트 (Nail Art) "
+    },
+    {
+      "question": "アイブロー ",
+      "answer": "아이브로우 (eyebrow)"
+    },
+    {
+      "question": "コーヒー",
+      "answer": "커피 (coffee)  "
+    },
+    {
+      "question": "サーモン",
+      "answer": "샐몬 (salmon)"
+    },
+    {
+      "question": "レモン",
+      "answer": "레몬 (lemon)  "
+    },
+    {
+      "question": "トトロ",
+      "answer": "토토로 (Totoro)"
+    },
+    {
+      "question": "タイム",
+      "answer": "타임 (time)"
+    },
+    {
+      "question": "カメラ",
+      "answer": "카메라 (camera)"
+    },
+    {
+      "question": "ソウル",
+      "answer": "소울 (soul)"
+    },
+    {
+      "question": "ショッピング",
+      "answer": "쇼핑 (shopping)  "
+    },
+    {
+      "question": "ドライブ",
+      "answer": "드라이브 (drive)"
+    },
+    {
+      "question": "ラジオ",
+      "answer": "라디오 (radio)"
+    },
+    {
+      "question": "オレンジ ",
+      "answer": "오렌지 (orange)"
+    },
+    {
+      "question": "エアコンディショナー",
+      "answer": "에어컨디셔너 (air conditioner)"
+    },
+    {
+      "question": "スモーキー",
+      "answer": "스모키 (smoky)"
+    },
+    {
+      "question": "マスカラ",
+      "answer": "마스카라 (mascara) "
+    },
+    {
+      "question": "カフェラテ",
+      "answer": "카페라테 (caffèe latte)"
+    },
+    {
+      "question": "ヌードル",
+      "answer": "누들 (noodle) "
+    },
+    {
+      "question": "ワッフル ",
+      "answer": "와플 (waffle)"
+    },
+    {
+      "question": "ツリー",
+      "answer": "트리 (tree)"
+    },
+    {
+      "question": "ユーエスエー",
+      "answer": "유에스에이 (USA) "
+    },
+    {
+      "question": "ホーム",
+      "answer": "홈 (home)  "
+    },
+    {
+      "question": "ミュージック",
+      "answer": "뮤직 (music)"
+    },
+    {
+      "question": "コーヒー",
+      "answer": "코-히- :커피"
+    },
+    {
+      "question": "コーヒーショップ",
+      "answer": "코-히-숍푸 :커피숍 "
+    },
+    {
+      "question": "スマーホ",
+      "answer": "스마-호 :스마트폰"
+    },
+    {
+      "question": "カフェ",
+      "answer": "카훼 :카페"
+    },
+    {
+      "question": "(アル)バイト",
+      "answer": "(아루)바이토 :아르바이트 "
+    },
+    {
+      "question": "パン",
+      "answer": "팡 :빵"
+    },
+    {
+      "question": "トイレ",
+      "answer": "토이레 :화장실"
+    },
+    {
+      "question": "ビール",
+      "answer": "비-루: 맥주"
+    },
+    {
+      "question": "ビル",
+      "answer": "비루: 빌딩"
+    },
+    {
+      "question": "コンビニ",
+      "answer": "콘비니 :편의점"
+    },
+    {
+      "question": "デパート",
+      "answer": "데파-토 : 백화점"
+    },
+    {
+      "question": "ジム",
+      "answer": "지무 : 헬스장"
+    },
+    {
+      "question": "コインランドリー",
+      "answer": "코인란도리-:코인빨래방"
+    },
+    {
+      "question": "シートベルト",
+      "answer": "시-토베루토: 안전벨트"
+    },
+    {
+      "question": "ビジネス",
+      "answer": "비지네스: 비지니스"
+    },
+    {
+      "question": "アプリ",
+      "answer": "아프리: 어플리케이션 "
+    },
+    {
+      "question": "アウトレット",
+      "answer": "아우토렛토: 아울렛"
+    },
+    {
+      "question": "キャンセル",
+      "answer": "캰세루: 캔슬"
+    },
+    {
+      "question": "シムカード",
+      "answer": "시무카-도: 유심카드"
+    },
+    {
+      "question": "ホテル",
+      "answer": "호테루 :호텔"
+    },
+    {
+      "question": "セール",
+      "answer": "세-루 :세일"
+    },
+    {
+      "question": "スポット",
+      "answer": "스폿토: 장소"
+    },
+    {
+      "question": "ガソリンスタンド",
+      "answer": "가소린스탄도: 주유소"
+    },
+    {
+      "question": "サービス",
+      "answer": "사-비스 :서비스"
+    },
+    {
+      "question": "ポップコーン",
+      "answer": "폽쁘코-ㄴ 팝콘"
+    }
+  ]
+}
