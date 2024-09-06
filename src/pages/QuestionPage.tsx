@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import Container from "../components/Container";
 import Button from "../components/Button";
 import Title from "../components/Title";
+import FretBoard from "../components/FretBoard";
 
 interface QuestionProps {
   questions: Question[];
@@ -9,10 +10,11 @@ interface QuestionProps {
   onNextQuestion: (corrected?: boolean) => void;
   title: string;
   onRestart: () => void;
+  type?: string;
 }
 
 interface Question {
-  question: string;
+  question: string | number[];
   answer: string;
   answerDescription: string;
 }
@@ -22,6 +24,7 @@ const QuestionPage: React.FC<QuestionProps> = ({
   currentQuestionIndex,
   onNextQuestion,
   title,
+  type,
   onRestart,
 }) => {
   const currentQuestion = questions[currentQuestionIndex];
@@ -31,6 +34,17 @@ const QuestionPage: React.FC<QuestionProps> = ({
     onNextQuestion(corrected);
     setShowAnswer(false);
   };
+
+  const getFretByQuestion = (question: number[]) => {
+    return <FretBoard fretPosition={question} />
+  }
+
+  const parseQuestionByType = (type: string | undefined, question: string | number[]) => {
+    if (type === 'fret' && Array.isArray(question)) {
+      return getFretByQuestion(question)
+    }
+    return question
+  }
   
   return (
     <Container>
@@ -40,7 +54,7 @@ const QuestionPage: React.FC<QuestionProps> = ({
       <Title>
         {title} 문항 {currentQuestionIndex + 1}
       </Title>
-      <p className="mb-8">{currentQuestion.question}</p>
+      <p className="mb-8">{parseQuestionByType(type, currentQuestion.question)}</p>
       <div className="mb-8">
         <Button onClick={() => setShowAnswer(!showAnswer)} underline>
           정답 {showAnswer ? "숨기기" : "보기"}

@@ -13,6 +13,7 @@ interface Question {
 interface Data {
   title: string;
   data: Question[];
+  type?: string;
 }
 
 const INITIAL_TEST = 'chord';
@@ -26,16 +27,18 @@ function App() {
   const [score, setScore] = useState(0);
   const [questions, setQuestions] = useState<Question[]>([]);
   const [title, setTitle] = useState("");
+  const [type, setType] = useState("");
 
   // 테스트 데이터를 JSON 파일로부터 로드하고 순서를 랜덤화하는 함수
   const loadTestData = () => {
     fetch(`${import.meta.env.VITE_PUBLIC_URL}/${testType}.json`)
       .then((response) => response.json())
-      .then(({ title, data }: Data) => {
+      .then(({ title, data, type }: Data) => {
         // 데이터를 랜덤하게 섞습니다.
         const shuffledQuestions = shuffleArray(data);
         setQuestions(shuffledQuestions);
         setTitle(title);
+        setType(type || "");
         setCurrentQuestionIndex(0);
         setScore(0);
       })
@@ -104,6 +107,7 @@ function App() {
         currentQuestionIndex={currentQuestionIndex}
         onNextQuestion={handleNextQuestion}
         title={title}
+        type={type}
       />
     );
   } else {
