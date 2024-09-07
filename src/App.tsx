@@ -16,7 +16,7 @@ interface Data {
   type?: string;
 }
 
-const INITIAL_TEST = 'chord';
+const INITIAL_TEST = 'fretboard';
 
 function App() {
   const [testType, setTestType] = useState(INITIAL_TEST);
