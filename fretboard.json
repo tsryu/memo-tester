@@ -1,0 +1,103 @@
+{
+  "title": "기타 프렛 음정 테스트",
+  "type": "fret",
+  "data": [
+    {
+      "question": [6, 0],
+      "answer": "E"
+    },
+    {
+      "question": [6, 1],
+      "answer": "F"
+    },
+    {
+      "question": [6, 2],
+      "answer": "F#"
+    },
+    {
+      "question": [6, 3],
+      "answer": "G"
+    },
+    {
+      "question": [6, 4],
+      "answer": "G#"
+    },
+    {
+      "question": [6, 5],
+      "answer": "A"
+    },
+    {
+      "question": [6, 6],
+      "answer": "A#"
+    },
+    {
+      "question": [6, 7],
+      "answer": "B"
+    },
+    {
+      "question": [6, 8],
+      "answer": "C"
+    },
+    {
+      "question": [6, 9],
+      "answer": "C#"
+    },
+    {
+      "question": [6, 10],
+      "answer": "D"
+    },
+    {
+      "question": [6, 11],
+      "answer": "D#"
+    },
+
+    {
+      "question": [5, 0],
+      "answer": "A"
+    },
+    {
+      "question": [5, 1],
+      "answer": "A#"
+    },
+    {
+      "question": [5, 2],
+      "answer": "B"
+    },
+    {
+      "question": [5, 3],
+      "answer": "C"
+    },
+    {
+      "question": [5, 4],
+      "answer": "C#"
+    },
+    {
+      "question": [5, 5],
+      "answer": "D"
+    },
+    {
+      "question": [5, 6],
+      "answer": "D#"
+    },
+    {
+      "question": [5, 7],
+      "answer": "E"
+    },
+    {
+      "question": [5, 8],
+      "answer": "F"
+    },
+    {
+      "question": [5, 9],
+      "answer": "F#"
+    },
+    {
+      "question": [5, 10],
+      "answer": "G"
+    },
+    {
+      "question": [5, 11],
+      "answer": "G#"
+    }
+  ]
+}
