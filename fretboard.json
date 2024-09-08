@@ -50,7 +50,10 @@
       "question": [6, 11],
       "answer": "D#"
     },
-
+    {
+      "question": [6, 12],
+      "answer": "E"
+    },
     {
       "question": [5, 0],
       "answer": "A"
@@ -98,6 +101,10 @@
     {
       "question": [5, 11],
       "answer": "G#"
+    },
+    {
+      "question": [5, 12],
+      "answer": "A"
     }
   ]
 }
