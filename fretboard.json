@@ -105,6 +105,214 @@
     {
       "question": [5, 12],
       "answer": "A"
+    },
+    {
+      "question": [4, 0],
+      "answer": "D"
+    },
+    {
+      "question": [4, 1],
+      "answer": "D#"
+    },
+    {
+      "question": [4, 2],
+      "answer": "E"
+    },
+    {
+      "question": [4, 3],
+      "answer": "F"
+    },
+    {
+      "question": [4, 4],
+      "answer": "F#"
+    },
+    {
+      "question": [4, 5],
+      "answer": "G"
+    },
+    {
+      "question": [4, 6],
+      "answer": "G#"
+    },
+    {
+      "question": [4, 7],
+      "answer": "A"
+    },
+    {
+      "question": [4, 8],
+      "answer": "A#"
+    },
+    {
+      "question": [4, 9],
+      "answer": "B"
+    },
+    {
+      "question": [4, 10],
+      "answer": "C"
+    },
+    {
+      "question": [4, 11],
+      "answer": "C#"
+    },
+    {
+      "question": [4, 12],
+      "answer": "D"
+    },
+    {
+      "question": [3, 0],
+      "answer": "G"
+    },
+    {
+      "question": [3, 1],
+      "answer": "G#"
+    },
+    {
+      "question": [3, 2],
+      "answer": "A"
+    },
+    {
+      "question": [3, 3],
+      "answer": "A#"
+    },
+    {
+      "question": [3, 4],
+      "answer": "B"
+    },
+    {
+      "question": [3, 5],
+      "answer": "C"
+    },
+    {
+      "question": [3, 6],
+      "answer": "C#"
+    },
+    {
+      "question": [3, 7],
+      "answer": "D"
+    },
+    {
+      "question": [3, 8],
+      "answer": "D#"
+    },
+    {
+      "question": [3, 9],
+      "answer": "E"
+    },
+    {
+      "question": [3, 10],
+      "answer": "F"
+    },
+    {
+      "question": [3, 11],
+      "answer": "F#"
+    },
+    {
+      "question": [3, 12],
+      "answer": "G"
+    },
+    {
+      "question": [2, 0],
+      "answer": "B"
+    },
+    {
+      "question": [2, 1],
+      "answer": "C"
+    },
+    {
+      "question": [2, 2],
+      "answer": "C#"
+    },
+    {
+      "question": [2, 3],
+      "answer": "D"
+    },
+    {
+      "question": [2, 4],
+      "answer": "D#"
+    },
+    {
+      "question": [2, 5],
+      "answer": "E"
+    },
+    {
+      "question": [2, 6],
+      "answer": "F"
+    },
+    {
+      "question": [2, 7],
+      "answer": "F#"
+    },
+    {
+      "question": [2, 8],
+      "answer": "G"
+    },
+    {
+      "question": [2, 9],
+      "answer": "G#"
+    },
+    {
+      "question": [2, 10],
+      "answer": "A"
+    },
+    {
+      "question": [2, 11],
+      "answer": "A#"
+    },
+    {
+      "question": [2, 12],
+      "answer": "B"
+    },
+    {
+      "question": [1, 0],
+      "answer": "E"
+    },
+    {
+      "question": [1, 1],
+      "answer": "F"
+    },
+    {
+      "question": [1, 2],
+      "answer": "F#"
+    },
+    {
+      "question": [1, 3],
+      "answer": "G"
+    },
+    {
+      "question": [1, 4],
+      "answer": "G#"
+    },
+    {
+      "question": [1, 5],
+      "answer": "A"
+    },
+    {
+      "question": [1, 6],
+      "answer": "A#"
+    },
+    {
+      "question": [1, 7],
+      "answer": "B"
+    },
+    {
+      "question": [1, 8],
+      "answer": "C"
+    },
+    {
+      "question": [1, 9],
+      "answer": "C#"
+    },
+    {
+      "question": [1, 10],
+      "answer": "D"
+    },
+    {
+      "question": [1, 11],
+      "answer": "D#"
+    },
+    {
+      "question": [1, 12],
+      "answer": "E"
     }
   ]
 }
